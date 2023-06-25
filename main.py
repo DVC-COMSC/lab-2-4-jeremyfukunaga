@@ -22,5 +22,6 @@ def main():
     print(merged_str)
     return sub1, sub2, merged_str
 
+
 if __name__ == '__main__':
     main()
