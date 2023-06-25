@@ -20,7 +20,7 @@ def main():
     print(sub2)
     print(sub1)
     print(merged_str)
-    return sub2, sub1, merged_str
+    return sub1, sub2, merged_str
 
 if __name__ == '__main__':
     main()
