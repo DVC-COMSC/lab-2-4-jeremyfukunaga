@@ -2,7 +2,7 @@ def main():
     ##################################################
     # Comlete your code here
     ##################################################
-    pass
+    # pass
 
     # Original string
     original_str = "Python Programming"
@@ -17,8 +17,10 @@ def main():
     merged_str = sub2 + " " + sub1
 
     # Print the merged string
+    print(sub2)
+    print(sub1)
     print(merged_str)
-
+    return sub1, sub2, merged_str
 
 
 if __name__ == '__main__':
